@@ -18,10 +18,10 @@ const Footer = () => {
             </div>
             <div className='contact-info'>
                 <li>
-                    <ul><FontAwesomeIcon icon={faLocationDot} style={{color: "#FDD58C"}}/> 6101 Annunciation St, New Orleans</ul>
-                    <ul><FontAwesomeIcon icon={faPhoneVolume} style={{color: "#FDD58C"}}/> +1 504 346 - 13 - 13</ul>
-                    <ul><FontAwesomeIcon icon={faClock} style={{color: "#FDD58C"}}/> Mon - Fri 07:00 am - 10:00 pm </ul>
-                    <ul><FontAwesomeIcon icon={faClock} style={{color: "#6d008e"}}/> Sat - Sun 09:00 am - 10:00 pm  </ul>
+                    <ul><FontAwesomeIcon icon={faLocationDot} style={{color: "#FDD58C"}}/> Вулиця Естонська 42, Київ, Україна </ul>
+                    <ul><FontAwesomeIcon icon={faPhoneVolume} style={{color: "#FDD58C"}}/> +38 093 615 55 66 </ul>
+                    <ul><FontAwesomeIcon icon={faClock} style={{color: "#FDD58C"}}/> Пн - Пт 07:00 - 22:00 </ul>
+                    <ul><FontAwesomeIcon icon={faClock} style={{color: "#6d008e"}}/> Сб - Нд 09:00 - 22:00 </ul>
                 </li>
             </div>
             
