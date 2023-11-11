@@ -1,0 +1,23 @@
+.aboutus {
+    padding: 0 20%;
+    text-align: center;
+}
+.aboutus-heading {
+    font-size: 30px;
+}
+.aboutus-heading2 {
+    font-size: 18px;
+}
+
+.aboutus-button {
+    border-radius: 20px;
+    font-family: 'Comfortaa', sans-serif;
+    padding: 15px 20px;
+    font-size: 16px;
+    border: 0px;
+    font-weight: 700;
+    cursor: pointer;
+    background: #df86fa;
+    color: white;
+    margin-bottom: 40px;
+}

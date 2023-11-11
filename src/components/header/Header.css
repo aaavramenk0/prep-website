@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background: #6d008e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 10px;
+}
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.nav-menu ul:hover {
+    font-weight: 700;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 20%;
+    overflow: hidden;
+}
+/* .bg {
+    opacity: 0.3;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+} */
+.main-heading {
+    font-size: 46px;
+}
+.main-heading2 {
+    font-size: 20px;
+}
+
+.form-input {
+    margin: 0px 30%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid #000;
+    border-bottom: 5px solid #000;
+    font-size: 16px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.button {
+    font-family: 'Comfortaa', sans-serif;
+    margin: 15px 35%;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 15px;
+    background: #df86fa;
+    color: white;
+
+}

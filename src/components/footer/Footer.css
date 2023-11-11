@@ -1,0 +1,20 @@
+.footer {
+    background: #6d008e;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+
+.footer-socials {
+    color: white;
+}
+.icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contact-info {
+    color: #fff;
+}
